@@ -1,0 +1,26 @@
+body {
+    background-color:#F6F6F6;
+    color: #05080c;
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+p {
+    text-align: justify;
+}
+
+article img {
+    float: right;
+    margin-left: 10px;
+}
+
+th {
+    background-color: #222222;
+    color: white;
+}
+
+td {
+    background-color: #eeeeee;
+}
